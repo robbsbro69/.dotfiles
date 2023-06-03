@@ -1,0 +1,14 @@
+@import url('colors.css');
+/* Decrease the size of the top panel */
+.terminal-window > headerbar {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+/* Decrease the size of the menu bar */
+.terminal-window > headerbar > menubar {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+  
+
