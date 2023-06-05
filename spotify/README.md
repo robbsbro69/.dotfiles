@@ -5,6 +5,15 @@ For git user :
 
 Install Manually :
  Download using the [Here](https://github.com/dracula/spicetify/archive/refs/heads/master.zip) Option and unzip them.
+ 
+ Activating theme :
+ 
+ 1) Place the theme folder in the spicetify theme folder
+  Linux : $XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes
+ 2) Choose the theme
+   $ spicetify config current_theme Dracula
+ 3) Enable the changement
+   $ spicetify apply
 
 Spotify Screenshot :
 
