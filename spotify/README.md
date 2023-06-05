@@ -8,7 +8,7 @@ Install Manually :
  
  Activating theme :
  
- 1) Place the theme folder in the spicetify theme folder
+ 1) Place the theme folder in the spicetify theme folder<br>
   Linux : $XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes
  2) Choose the theme
    $ spicetify config current_theme Dracula
