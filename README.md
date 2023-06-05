@@ -11,3 +11,13 @@ ScreenShots:
 ![Screenshot from 2023-06-03 12-54-52](https://github.com/robbsbro69/.dotfiles/assets/135323392/e6a75b1e-e096-4731-9158-787a8dd4af54)
 ![Screenshot from 2023-06-03 12-54-57](https://github.com/robbsbro69/.dotfiles/assets/135323392/4a3c6081-ec38-4b54-81d7-44b9612ae7bc)
 ![Screenshot from 2023-06-03 12-55-21](https://github.com/robbsbro69/.dotfiles/assets/135323392/cfdf2c14-cfa8-4fd3-a416-be7a96a98129)
+
+Extensions :
+  1) Dash to Panel (Position=Top,Activities Box,Left Box,Date Menu,Right Box and System Menu)
+  2) Media Controls
+  3) Places Status Indicator
+  4) Tiling Assistant
+  5) User Themes
+ 
+ 
+  
