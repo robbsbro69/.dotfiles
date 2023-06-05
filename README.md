@@ -13,7 +13,7 @@ ScreenShots:
 ![Screenshot from 2023-06-03 12-55-21](https://github.com/robbsbro69/.dotfiles/assets/135323392/cfdf2c14-cfa8-4fd3-a416-be7a96a98129)
 
 Extensions :
-  1) [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) (Position=Top,Activities Box,Left Box,Date Menu,Right Box and System Menu)
+  1) [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
   2) [Media Controls](https://extensions.gnome.org/extension/4470/media-controls/)
   3) [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)
   4) [Tiling Assistant](https://extensions.gnome.org/extension/3733/tiling-assistant/)
